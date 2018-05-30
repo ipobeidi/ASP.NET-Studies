@@ -184,6 +184,8 @@
     <Compile Include="CustomValidations\Min18YearsIfAMember.cs" />
     <Compile Include="CustomValidations\QuantityValidation.cs" />
     <Compile Include="DTO\CustomerDTO.cs" />
+    <Compile Include="DTO\GenreDTO.cs" />
+    <Compile Include="DTO\MembershipTypeDTO.cs" />
     <Compile Include="DTO\MoviesDTO.cs" />
     <Compile Include="EntityConfiguration\CustomerConfiguration.cs" />
     <Compile Include="EntityConfiguration\GenreConfiguration.cs" />

@@ -18,11 +18,11 @@ namespace Vidly.DTO
         public DateTime ReleasedDate { get; set; }
 
         public DateTime AddData { get; set; }
-
-        
+                
         public int Quantity { get; set; }
 
-       
+        public GenreDTO Genres { get; set; }
+
         public int GenreId { get; set; }
     }
 }
